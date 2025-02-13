@@ -12,3 +12,6 @@ FileForge provides a secure platform for organizing, encrypting, and sharing fil
 ## Setup
 Run the server with: `python fileforge.py --port 5000`
 Access FileForge at: `http://localhost:5000`.
+## System Requirements
+- Python 3.9+
+- 2GB RAM minimum
