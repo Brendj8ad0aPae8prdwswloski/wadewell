@@ -15,3 +15,5 @@ Access FileForge at: `http://localhost:5000`.
 ## System Requirements
 - Python 3.9+
 - 2GB RAM minimum
+## Usage Example
+
