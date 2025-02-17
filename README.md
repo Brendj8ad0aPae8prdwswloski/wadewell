@@ -17,3 +17,5 @@ Access FileForge at: `http://localhost:5000`.
 - 2GB RAM minimum
 ## Usage Example
 
+## Contributing
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
