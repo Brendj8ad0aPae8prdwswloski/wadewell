@@ -19,3 +19,5 @@ Access FileForge at: `http://localhost:5000`.
 
 ## Contributing
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+## License
+FileForge is licensed under the MIT License. See [LICENSE](LICENSE).
