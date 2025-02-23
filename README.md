@@ -23,3 +23,6 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 FileForge is licensed under the MIT License. See [LICENSE](LICENSE).
 ## Testing
 Run tests with: `pytest -v tests/`
+## FAQ
+Q: How secure is file sharing?
+A: Files are encrypted with AES-256. See [security.md](docs/security.md).
