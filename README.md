@@ -26,3 +26,5 @@ Run tests with: `pytest -v tests/`
 ## FAQ
 Q: How secure is file sharing?
 A: Files are encrypted with AES-256. See [security.md](docs/security.md).
+## Community
+Join our discussions on [Slack](https://fileforge.slack.com).
