@@ -28,3 +28,4 @@ Q: How secure is file sharing?
 A: Files are encrypted with AES-256. See [security.md](docs/security.md).
 ## Community
 Join our discussions on [Slack](https://fileforge.slack.com).
+[![Build Status](https://github.com/user/fileforge/workflows/CI/badge.svg)](https://github.com/user/fileforge/actions)
